@@ -1,4 +1,4 @@
-First project in the Scrimba Learn Javascript tutorial.
+First project in Scrimba's JavaScript Programming tutorial through freeCodeCamp.
 
 Made a passenger counter app, which features a counter and save function with relevant informational displays to the user.
 
